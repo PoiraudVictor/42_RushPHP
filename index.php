@@ -22,6 +22,7 @@
             <li><a href="./pages/logout.php">Logout</a></li>
             <li><a href="./pages/modify.html">Modify account</a></li>
             <li><a href="./pages/panier.html">Panier</a></li>
+            <li><a href="./pages/foreach.html">Panier</a></li>
         </ul>
     </nav>
 
